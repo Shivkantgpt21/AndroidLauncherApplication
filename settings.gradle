@@ -1,0 +1,2 @@
+include ':appinfo'
+include ':app'
